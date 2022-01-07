@@ -1,5 +1,7 @@
-# WebGame2D
+# WebGame2D (PHP, MYSQL, HTML, CSS, JS)
 Xem chi tiết code tại: https://github.com/Nhomweb/CSE485_N031340
+
+
 
 
 Nguyễn Văn Nhật-WEBSITE GAME 2D Địa chỉ github: https://github.com/Nhomweb/CSE485_N031340 Nhóm thực hiện : Địa chỉ website: http://game2d.byethost31.com/

@@ -10,6 +10,18 @@ Tổng quan Thống kê bất ngờ ở trên trang gamek.vn và web25.vn thị 
 
 Chức năng của web Website gồm các chức năng chính sau:
 
-Đối với nhóm người dùng(User chưa đăng nhập): o Đăng ký tài khoản thành viên của hệ thống (thông tin đăng ký ít nhất là 6 thông tin). o Xem thông tin các loại game có trong trong web o Tìm kiếm : Tìm game, thể loại game. o Bình luận về game
-Đối với nhóm người dùng(User đã đăng nhập): o Lấy lại mật khẩu o Chơi được thêm nhiều thể loại hơn
-Đối với nhóm người dùng quản trị (Admin): o Đăng nhập hệ thống Site quản lý o Cập nhật thông tin cá nhân của tài khoản o Quản lý các tài khỏan của người dùng (Thêm, Xóa, Cập nhật). Lưu ý không xóa tài khoản Admin hiện đang sử dụng. o Quản lý hệ thống game (Thêm, Xóa, Cập nhật) o Quản lý thể loại game( Thêm, Xóa, Cập nhật) o Quản lý quảng cáo(Thêm, xóa, Cập nhật)
+Đối với nhóm người dùng(User chưa đăng nhập): 
+o Đăng ký tài khoản thành viên của hệ thống (thông tin đăng ký ít nhất là 6 thông tin). 
+o Xem thông tin các loại game có trong trong web o Tìm kiếm : Tìm game, thể loại game. 
+o Bình luận về game
+
+Đối với nhóm người dùng(User đã đăng nhập): 
+o Lấy lại mật khẩu o Chơi được thêm nhiều thể loại hơn
+
+Đối với nhóm người dùng quản trị (Admin): 
+o Đăng nhập hệ thống Site quản lý 
+o Cập nhật thông tin cá nhân của tài khoản 
+o Quản lý các tài khỏan của người dùng (Thêm, Xóa, Cập nhật). Lưu ý không xóa tài khoản Admin hiện đang sử dụng. 
+o Quản lý hệ thống game (Thêm, Xóa, Cập nhật) 
+o Quản lý thể loại game( Thêm, Xóa, Cập nhật) 
+o Quản lý quảng cáo(Thêm, xóa, Cập nhật)
